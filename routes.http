@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://rocketseat-nodefromscratch.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,10 +9,10 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://rocketseat-nodefromscratch.onrender.com/videos
 
 ###
-PUT http://localhost:3333/videos/7dbf9738-ad0a-4314-bcc9-ab15e4966c5b
+PUT https://rocketseat-nodefromscratch.onrender.com/videos/52f22b12-f03f-4690-a5d8-7e19e3148930
 Content-Type: application/json
 
 {
@@ -23,6 +23,6 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/7dbf9738-ad0a-4314-bcc9-ab15e4966c5b
+DELETE https://rocketseat-nodefromscratch.onrender.com/videos/e9902b8b-774f-4fde-b289-e88c63676514
 
 
